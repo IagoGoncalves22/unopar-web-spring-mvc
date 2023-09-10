@@ -19,7 +19,7 @@ This project is a simple RESTFULL API using Spring Web MVC.
 - You can use the following JSON to create or update an employee:
 ```json
 {
-    "name": "John Doe",
+    "nome": "John Doe",
     "email": "jhon@doe.com",
     "telefone": "99999999999",
     "password": "123456"
